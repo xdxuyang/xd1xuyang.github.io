@@ -27,11 +27,6 @@ Conference
 ------
 __C. Li__, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
 
-#Contests
-#======
-#* Large Scale 3D Human Activity Analysis Challenge in Depth Videos(ICME 2017 Workshop), Rank : 10/10 [result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)
-
- 
 Friends
 ======
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)
