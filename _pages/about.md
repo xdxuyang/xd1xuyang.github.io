@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chao Li"
+title: "Chao Li （李超）"
 excerpt: "About me)"
 author_profile: true
 redirect_from: 
@@ -25,7 +25,7 @@ Journal
 
 Conference
 ------
-##C. Li, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [arXiv](https://arxiv.org/abs/1804.01223) [code soon]()
+C. Li, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2018. [arXiv](https://arxiv.org/abs/1804.01223) [code soon]()
 
 #Contests
 #======
