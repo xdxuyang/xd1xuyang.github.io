@@ -30,8 +30,8 @@ __C. Li__, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Netw
 
 Friends
 ======
-[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)
-[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)
-[Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)
-[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)
+[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
+[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
+[Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
+[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)  
 
