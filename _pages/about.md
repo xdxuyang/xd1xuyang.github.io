@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chao Li （李超）"
+title: "Chao Li 李超"
 excerpt: "About me)"
 author_profile: true
 redirect_from: 
