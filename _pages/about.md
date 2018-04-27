@@ -13,7 +13,8 @@ I am currently a second year PhD Candidate co-supervised by Prof. [Wei Liu](http
 
 News
 ======
-* Feb. 20, 2018, one paper was accepted by CVPR2018. 
+* Apr. 16, 2018, one paper was accepted by IJCAI2018 (~21% acceptance rate)
+* Feb. 20, 2018, one paper was accepted by CVPR2018 (~29% acceptance rate). 
 
 
 Recent Publications
@@ -26,12 +27,13 @@ C. Deng, X. Liu, __C. Li__, D. Tao, Active Multi-kernel Domain Adaptation for Hy
 
 Conference
 ------
+N. Li, __C. Li__, C. Deng, X. Liu, and X. Gao, Deep Joint Semantic-Embedding Hashing, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2018.  
 __C. Li__, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, In IEEE International Conference on Computer Vision and Pattern Recognition (__CVPR__), 2018. [arXiv](https://arxiv.org/abs/1804.01223)
 
 Friends
 ======
+[Erkun Yang](https://chaoli1991.github.io/)(Xidian Unversity)
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
 [De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
 [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)  
-
