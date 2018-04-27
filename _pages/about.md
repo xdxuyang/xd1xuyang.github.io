@@ -32,7 +32,7 @@ __C. Li__, C. Deng, W. Liu, and D. Tao, Self-Supervised Adversarial Hashing Netw
 
 Friends
 ======
-[Erkun Yang](https://chaoli1991.github.io/)(Xidian Unversity)  
+[Erkun Yang](http://erkunyang.com)(Xidian Unversity)  
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
 [De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
 [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
