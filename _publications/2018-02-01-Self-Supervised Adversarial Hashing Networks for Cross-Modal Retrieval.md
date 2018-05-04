@@ -14,7 +14,7 @@ Thanks to the success of deep learning, cross-modal retrieval has made significa
 Framework
 ======
 ---
-![image](/files/SSAH/Framework.png)
+[Framework](/files/SSAH/Framework.png)
 
 
 Download
