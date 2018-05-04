@@ -1,6 +1,6 @@
 Title
 =====
-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]  
+__Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
 
 Abstract
 ======
