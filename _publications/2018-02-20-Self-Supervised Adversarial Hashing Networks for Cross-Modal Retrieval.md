@@ -1,7 +1,7 @@
 ---
 title: "Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval"
 collection: publications
-permalink: /publication/2018-02-01-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
+permalink: /publication/2018-02-20-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
 excerpt: 'This paper is about deep hashing for cross-modal retrieval.'
 date: 2018-02-20
 venue: 'CVPR'
@@ -11,11 +11,12 @@ citation: '@article{li2018self,
   journal={arXiv preprint arXiv:1804.01223},
   year={2018}
 }'
----
 
+---
 # Title
 
 __Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
+
 ---
 # Abstract
 Thanks to the success of deep learning, cross-modal retrieval has made significant progress recently. However, there still remains a crucial bottleneck: how to bridge the modality gap to further enhance the retrieval accuracy. In this paper, we propose a self-supervised adversarial hashing (__SSAH__) approach, which lies among the early attempts to incorporate adversarial learning into cross-modal hashing in a self-supervised fashion. The primary contribution of this work is that two adversarial networks are leveraged to maximize the semantic correlation and consistency of the representations between different modalities. In addition, we harness a self-supervised semantic network to discover high-level semantic information in the form of multi-label annotations. Such information guides the feature learning process and preserves the modality relationships in both the common semantic space and the Hamming space. Extensive experiments carried out on three benchmark datasets validate that the proposed SSAH surpasses the state-of-the-art methods.
