@@ -1,3 +1,4 @@
+---
 title: "Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval"
 collection: publications
 permalink: /publication/2018-02-20-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
