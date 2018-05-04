@@ -23,8 +23,7 @@ Thanks to the success of deep learning, cross-modal retrieval has made significa
 
 ---
 # Framework
-![SSAH](https://github.com/ChaoLi1991/ChaoLi1991.github.io/blob/master/files/SSAH/SSAH.png)
-
+![image](https://github.com/ChaoLi1991/ChaoLi1991.github.io/blob/master/files/SSAH/Framework.png)
 
 ---
 # Download
