@@ -13,6 +13,6 @@ Thanks to the success of deep learning, cross-modal retrieval has made significa
 
 Framework
 ======
-![image](/file/SSAH/Framework.pdf)
+![Intro.pdf](/file/SSAH/Framework.pdf)
 
 [Download paper here](https://arxiv.org/pdf/1804.01223.pdf)
