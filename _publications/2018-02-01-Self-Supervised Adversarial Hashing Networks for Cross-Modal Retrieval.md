@@ -1,12 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2018-02-01-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2018-02-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://arxiv.org/pdf/1804.01223.pdf'
+citation: '@article{li2018self,
+  title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},
+  author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},
+  journal={arXiv preprint arXiv:1804.01223},
+  year={2018}
+}.'
 ---
 
 # Title
