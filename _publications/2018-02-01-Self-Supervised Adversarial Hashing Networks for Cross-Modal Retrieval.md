@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-02-01-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2018-02-01
-venue: 'Journal 1'
+venue: 'CVPR 2018'
 paperurl: 'https://arxiv.org/pdf/1804.01223.pdf'
 citation: '@article{li2018self,
   title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},
