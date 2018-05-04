@@ -12,7 +12,6 @@ citation: '@article{li2018self,
   journal={arXiv preprint arXiv:1804.01223},
   year={2018}
 }'
----
 
 # Title
 
