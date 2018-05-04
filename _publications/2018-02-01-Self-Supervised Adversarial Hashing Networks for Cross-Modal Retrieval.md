@@ -4,7 +4,12 @@ collection: publications
 date: 2018-02-01
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/pdf/1804.01223.pdf'  
-citation: 'Li C, Deng C, Li N, et al. Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval[J]. arXiv preprint arXiv:1804.01223, 2018.'
+citation: '@article{li2018self,
+  title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},
+  author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},
+  journal={arXiv preprint arXiv:1804.01223},
+  year={2018}
+}'
 ---
 
 Abstract
