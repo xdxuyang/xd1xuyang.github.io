@@ -10,7 +10,7 @@ citation: '@article{li2018self,
   author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},
   journal={arXiv preprint arXiv:1804.01223},
   year={2018}
-}'
+}.'
 ---
 
 ---
