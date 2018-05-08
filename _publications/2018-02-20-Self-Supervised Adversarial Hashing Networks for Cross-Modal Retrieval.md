@@ -9,7 +9,7 @@ venue: 'CVPR'
 
 ---
 # Title
-__Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
+__1. Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
 
 ---
 # Abstract
