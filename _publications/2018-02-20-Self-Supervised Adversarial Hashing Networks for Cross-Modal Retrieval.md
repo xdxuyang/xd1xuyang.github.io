@@ -20,13 +20,13 @@ Thanks to the success of deep learning, cross-modal retrieval has made significa
 # Download
 [Paper](https://arxiv.org/pdf/1804.01223.pdf)  
 [Code](https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)  
-[Dataset:MIRFLICKR-25K]()
+Dataset:[MIRFLICKR-25K](http://press.liacs.nl/mirflickr/), [NUS-WIDE](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm), [MS COCO](http://cocodataset.org/#download)
 
 ---
 # Citation
-@article{li2018self,
-  title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},
-  author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},
-  journal={arXiv preprint arXiv:1804.01223},
-  year={2018}
+@article{li2018self,  
+  title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},  
+  author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},  
+  journal={arXiv preprint arXiv:1804.01223},  
+  year={2018}  
 }
