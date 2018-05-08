@@ -20,7 +20,6 @@ With explosive growth of data volume and everincreasing diversity of data modali
 ---
 # Download
 [Paper](http://www.ee.columbia.edu/~wliu/TNNLS18_CrossQuant.pdf)  
-[Code]()  
 [MIRFLICKR-25K](http://press.liacs.nl/mirflickr/), [NUS-WIDE](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm)
 
 ---
