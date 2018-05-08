@@ -1,7 +1,7 @@
 ---
 title: "2 . Shared Predictive Cross-Modal Deep Quantization [TNNLS'18]"
 permalink: /publication/2018-01-04-Shared Predictive Cross-Modal Deep Quantization
-excerpt: '[PDF](http://www.ee.columbia.edu/~wliu/TNNLS18_CrossQuant.pdf), [Code](), [Project](/publication/2018-01-04-Shared Predictive Cross-Modal Deep Quantization)'
+excerpt: '[PDF](http://www.ee.columbia.edu/~wliu/TNNLS18_CrossQuant.pdf), [Project](/publication/2018-01-04-Shared Predictive Cross-Modal Deep Quantization)'
 ---
 
 ---
