@@ -6,7 +6,7 @@ excerpt: '[PDF](http://www.ee.columbia.edu/~wliu/TNNLS18_CrossQuant.pdf), [Code]
 
 ---
 # Title
-__1. Shared Predictive Cross-Modal Deep Quantization [TNNLS'2018]__  
+__Shared Predictive Cross-Modal Deep Quantization [TNNLS'2018]__  
 
 ---
 # Abstract
