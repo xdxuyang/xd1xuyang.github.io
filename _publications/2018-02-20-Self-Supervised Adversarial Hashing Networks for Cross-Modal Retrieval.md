@@ -6,7 +6,7 @@ excerpt: '[PDF](https://arxiv.org/pdf/1804.01223.pdf), [Code](https://github.com
 
 ---
 # Title
-__1. Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
+__Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval [CVPR'2018]__  
 
 ---
 # Abstract
