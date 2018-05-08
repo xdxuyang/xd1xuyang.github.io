@@ -2,7 +2,7 @@
 title: "1. Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval"
 collection: publications
 permalink: /publication/2018-02-20-Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval
-excerpt: '[PDF](https://arxiv.org/pdf/1804.01223.pdf), [Project(https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)'
+excerpt: '[PDF](https://arxiv.org/pdf/1804.01223.pdf), [Project](https://github.com/ChaoLi1991/ChaoLi1991.github.io/tree/master/files/SSAH)'
 date: 2018-02-20
 venue: 'CVPR'
 ---
