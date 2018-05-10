@@ -32,7 +32,7 @@ __C. Li__, C. Deng, N. Li, W. Liu, X. Gao, and D. Tao, Self-Supervised Adversari
 
 Friends
 ======
-[Erkun Yang](http://erkunyang.com)(Xidian Unversity)  
+[Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
 [Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
 [De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
 [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
