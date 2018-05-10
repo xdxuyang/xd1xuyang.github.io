@@ -1,12 +1,12 @@
 ---
-title: "2 . Shared Predictive Cross-Modal Deep Quantization [TNNLS'18]"
-permalink: /publication/2018-01-04-Shared Predictive Cross-Modal Deep Quantization
+title: "2 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, In AAAI Conference on Artificial Intelligence [AAAI'18]"
+permalink: /publication/2017-11-08-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
 excerpt: '[PDF](http://www.ee.columbia.edu/~wliu/TNNLS18_CrossQuant.pdf), [Project](/publication/2018-01-04-Shared Predictive Cross-Modal Deep Quantization)'
 ---
 
 ---
 # Title
-__Shared Predictive Cross-Modal Deep Quantization [TNNLS'2018]__  
+__New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering__  
 
 ---
 # Abstract
