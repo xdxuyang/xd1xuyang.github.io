@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year PhD Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
+I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
 
 
 News
