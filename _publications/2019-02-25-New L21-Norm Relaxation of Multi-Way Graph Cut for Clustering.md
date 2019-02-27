@@ -1,7 +1,7 @@
 ---
-title: "2 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, [AAAI'18]"
-permalink: /publication/2017-11-08-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
-excerpt: '[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)'
+title: "1 . Deep Spectral Clustering Using Dual Autoencoder Network, [CVPR'19]"
+permalink: /publication/2019-02-25-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
+excerpt: '[PDF](https:)'
 ---
 
 ---
@@ -11,7 +11,8 @@ __New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering__
 ---
 # Abstract
 
-The clustering methods have absorbed even-increasing attention in machine learning and computer vision communities in recent years. Exploring manifold information in multi-way graph cut clustering, such as ratio cut clustering, has shown its promising performance. However, traditional multi-way ratio cut clustering method is NP-hard and thus the spectral solution may deviate from the optimal one. In this paper, we propose a new relaxed multi-way graph cut clustering method, where l2,1-norm distance instead of squared distance is utilized to preserve the solution having much more clearer cluster structures. Furthermore, the resulting solution is constrained with normalization to obtain more sparse representation, which can encourage the solution to contain more discrete values with many zeros. For the objective function, it is very difficult to optimize due to minimizing the ratio of two non-smooth items. To address this problem, we transform the objective function into a quadratic problem on the Stiefel manifold (QPSM), and introduce a novel yet efficient iterative algorithm to solve it. Experimental results on several benchmark datasets show that our method significantly outperforms several state-of-the-art clustering approaches.
+The clustering methods have recently absorbed even-increasing attention in learning and vision. Deep clustering combines embedding and clustering together to obtain optimal embedding subspace for clustering, which can be more effective compared with conventional clustering methods. In this paper, we propose a joint learning framework for discriminative embedding and spectral clustering. We first devise a dual autoencoder network, which enforces the reconstruction constraint for the latent representation and its noisy version, to embed the inputs into a latent space for clustering. As such the learned latent representations can be more robust to noise. Then the mutual information estimation is utilized to provide more discriminative information from the input. Furthermore, a deep spectral clustering method is applied to embed the latent representations into the eigenspace and subsequently clusters them, which can fully exploit the relationship between inputs to achieve optimal clustering result. Experimental results on benchmark datasets show that our method can significantly outperform state-of-the-art clustering approaches.
+
 
 
 ---
@@ -19,7 +20,7 @@ The clustering methods have absorbed even-increasing attention in machine learni
 
 ---
 # Download
-[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)  
+[Paper](https:)  
 
 ---
 
