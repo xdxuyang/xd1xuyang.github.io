@@ -13,6 +13,7 @@ I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised 
 
 News
 ======
+* Feb. 25, 2019, one paper was accepted to CVPR2019 (~25.2% acceptance rate)
 * Nov. 8, 2017, one paper was accepted by AAA2018 (~25% acceptance rate)
 
 
@@ -27,6 +28,8 @@ Journal
 Conference
 ------
 __X. Yang__, C. Deng, X. Liu, and F. Nie, New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, In AAAI Conference on Artificial Intelligence (__AAAI__), 2018.
+
+__X. Yang__, C. Deng, F. Zheng, J. Yan, and W. Liu, Deep Spectral Clustering Using Dual Autoencoder Network, In IEEE International Conference on Pattern Recognition and Computer Vision (__CVPR__), 2019.
 
 Friends
 ======
