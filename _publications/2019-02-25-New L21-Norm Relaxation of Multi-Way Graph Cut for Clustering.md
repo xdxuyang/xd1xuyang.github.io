@@ -6,7 +6,7 @@ excerpt: '[PDF](https:)'
 
 ---
 # Title
-__New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering__  
+__Deep Spectral Clustering Using Dual Autoencoder Network__  
 
 ---
 # Abstract
