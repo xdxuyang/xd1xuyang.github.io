@@ -1,5 +1,5 @@
 ---
-title: "1 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, [AAAI'18]"
+title: "2 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, [AAAI'18]"
 permalink: /publication/2017-11-08-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
 excerpt: '[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)'
 ---
