@@ -1,6 +1,6 @@
 ---
 title: "1 . Deep Spectral Clustering Using Dual Autoencoder Network, [CVPR'19]"
-permalink: /publication/2019-02-25-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering.md
+permalink: /publication/2019-02-25-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
 excerpt: '[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf)'
 ---
 
