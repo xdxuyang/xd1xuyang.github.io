@@ -19,6 +19,6 @@ The clustering methods have recently absorbed even-increasing attention in learn
 
 ---
 # Download
-[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf) [Code](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) 
+[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf),  [Code](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) 
 
 
