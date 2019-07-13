@@ -1,6 +1,6 @@
 ---
-title: "2 . New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, [AAAI'18]"
-permalink: /publication/2017-11-08-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering
+title: "1 . Deep Spectral Clustering Using Dual Autoencoder Network, [CVPR'19]"
+permalink: /publication/2019-02-25-New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering.md
 excerpt: '[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17033/16747)'
 ---
 
