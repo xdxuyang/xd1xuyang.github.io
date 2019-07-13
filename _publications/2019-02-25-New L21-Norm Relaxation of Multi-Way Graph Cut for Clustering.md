@@ -21,4 +21,12 @@ The clustering methods have recently absorbed even-increasing attention in learn
 # Download
 [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Deep_Spectral_Clustering_Using_Dual_Autoencoder_Network_CVPR_2019_paper.pdf),  [Code](https://github.com/xdxuyang/Deep-Spectral-Clustering-using-Dual-Autoencoder-Network) 
 
+# Citation
+@inproceedings{yang2019deep,
+  title={Deep Spectral Clustering using Dual Autoencoder Network},
+  author={Yang, Xu and Deng, Cheng and Zheng, Feng and Yan, Junchi and Liu, Wei},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4066--4075},
+  year={2019}
+}
 
