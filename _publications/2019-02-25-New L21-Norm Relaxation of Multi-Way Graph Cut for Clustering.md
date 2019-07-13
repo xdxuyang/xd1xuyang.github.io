@@ -23,11 +23,10 @@ The clustering methods have recently absorbed even-increasing attention in learn
 
 ---
 # Citation
-@inproceedings{yang2019deep,
-  title={Deep Spectral Clustering using Dual Autoencoder Network},
-  author={Yang, Xu and Deng, Cheng and Zheng, Feng and Yan, Junchi and Liu, Wei},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={4066--4075},
-  year={2019}
+@article{li2018self,  
+  title={Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval},  
+  author={Li, Chao and Deng, Cheng and Li, Ning and Liu, Wei and Gao, Xinbo and Tao, Dacheng},  
+  journal={arXiv preprint arXiv:1804.01223},  
+  year={2018}  
 }
 
