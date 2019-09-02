@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
+I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
 
 
 News
 ======
+* Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia.
 * Feb. 25, 2019, one paper was accepted to CVPR2019 (~25.2% acceptance rate)
 * Nov. 8, 2017, one paper was accepted by AAA2018 (~25% acceptance rate)
 
@@ -23,7 +24,7 @@ Recent Publications
 
 Journal
 ------
-
+C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, IEEE Trans. Multimed., 2019
 
 Conference
 ------
