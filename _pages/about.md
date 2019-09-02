@@ -24,7 +24,7 @@ Recent Publications
 
 Journal
 ------
-C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, IEEE Trans. Multimed., 2019
+C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019
 
 Conference
 ------
