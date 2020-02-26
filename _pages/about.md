@@ -16,7 +16,7 @@ News
 * Feb. 24, 2020, one paper was accepted to CVPR2020 (~22% acceptance rate)
 * Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia.
 * Feb. 25, 2019, one paper was accepted to CVPR2019 (~25.2% acceptance rate)
-* Nov. 8, 2017, one paper was accepted by AAA2018 (~25% acceptance rate)
+* Nov. 8, 2017, one paper was accepted to AAA2018 (~25% acceptance rate)
 
 
 
