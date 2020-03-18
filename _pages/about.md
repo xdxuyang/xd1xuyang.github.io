@@ -38,7 +38,6 @@ Z. Dang, C. Deng, __X. Yang__, H. Huang, Multi-Scale Fusion Subspace Clustering 
 Friends
 ======
 [Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
-[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)  
-[De Xie](https://shadowxiede.github.io/)(Xidian Unversity)  
+[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)   
 [Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
 [Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)  
