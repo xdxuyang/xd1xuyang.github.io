@@ -36,6 +36,9 @@ __X. Yang__, C. Deng, F. Zheng, J. Yan, and W. Liu, Deep Spectral Clustering Usi
 
 Z. Dang, C. Deng, __X. Yang__, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (__CVPR__), 2020.
 
+K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020.
+
+
 Friends
 ======
 [Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
