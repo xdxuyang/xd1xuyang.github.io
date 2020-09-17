@@ -13,6 +13,7 @@ I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised 
 
 News
 ======
+* Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence.
 * Apr. 20, 2020, one paper was accepted to IJCAI2020 (~12.6% acceptance rate)
 * Feb. 24, 2020, one paper was accepted to CVPR2020 (~22% acceptance rate)
 * Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia.
@@ -26,7 +27,9 @@ Recent Publications
 
 Journal
 ------
-C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019
+__X. Yang__, C. Deng, T. Liu, and D. Tao, Heterogeneous Graph Attention Network for Unsupervised Multiple-Target Domain Adaptation, IEEE Trans. Pattern Anal. Mach. Intell., 2020.(IF19=17.861)
+
+C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019.(IF19=6.051)
 
 Conference
 ------
