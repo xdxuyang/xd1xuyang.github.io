@@ -27,9 +27,9 @@ Recent Publications
 
 Journal
 ------
-__X. Yang__, C. Deng, T. Liu, and D. Tao, Heterogeneous Graph Attention Network for Unsupervised Multiple-Target Domain Adaptation, IEEE Trans. Pattern Anal. Mach. Intell., 2020.(IF19=17.861)
+__X. Yang__, C. Deng, T. Liu, and D. Tao, Heterogeneous Graph Attention Network for Unsupervised Multiple-Target Domain Adaptation, IEEE Trans. Pattern Anal. Mach. Intell., 2020. (IF19=17.861)
 
-C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019.(IF19=6.051)
+C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019. (IF19=6.051)
 
 Conference
 ------
