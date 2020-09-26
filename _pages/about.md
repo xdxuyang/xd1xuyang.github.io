@@ -42,7 +42,7 @@ Z. Dang, C. Deng, __X. Yang__, H. Huang, Multi-Scale Fusion Subspace Clustering 
 
 K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020.
 
-__X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Annual Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
+__X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
 
 
 Friends
