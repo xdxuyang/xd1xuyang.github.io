@@ -13,6 +13,7 @@ I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised 
 
 News
 ======
+* Sep. 26, 2020, one paper was accepted to NeurIPS (~20% acceptance rate)
 * Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence.
 * Apr. 20, 2020, one paper was accepted to IJCAI2020 (~12.6% acceptance rate)
 * Feb. 24, 2020, one paper was accepted to CVPR2020 (~22% acceptance rate)
@@ -40,6 +41,8 @@ __X. Yang__, C. Deng, F. Zheng, J. Yan, and W. Liu, Deep Spectral Clustering Usi
 Z. Dang, C. Deng, __X. Yang__, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (__CVPR__), 2020.
 
 K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020.
+
+__X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Annual Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
 
 
 Friends
