@@ -45,6 +45,7 @@ K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International 
 
 __X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
 
+K. Wei, C. Deng, and __X. Yang__, M. Li, Incremental Embedding Learning via Zero-Shot Translation, In AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
 
 Friends
 ======
