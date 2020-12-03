@@ -13,6 +13,7 @@ I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised 
 
 News
 ======
+* I will serve as a Senior PC for IJCAI 2021
 * Dec. 02, 2020, one paper was accepted to AAAI2021 (~21% acceptance rate)
 * Sep. 26, 2020, one paper was accepted to NeurIPS2020 (~20% acceptance rate)
 * Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence.
