@@ -16,10 +16,10 @@ News
 * I will serve as a Senior PC for IJCAI 2021
 * Dec. 02, 2020, one paper was accepted to AAAI2021 (~21% acceptance rate)
 * Sep. 26, 2020, one paper was accepted to NeurIPS2020 (~20% acceptance rate)
-* Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence (IF_{19}=17.861)
+* Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence (IF19=17.861)
 * Apr. 20, 2020, one paper was accepted to IJCAI2020 (~12.6% acceptance rate)
 * Feb. 24, 2020, one paper was accepted to CVPR2020 (~22% acceptance rate)
-* Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia (IF_{19}=6.051)
+* Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia (IF19=6.051)
 * Feb. 25, 2019, one paper was accepted to CVPR2019 (~25.2% acceptance rate)
 * Nov. 8, 2017, one paper was accepted to AAA2018 (~25% acceptance rate)
 
