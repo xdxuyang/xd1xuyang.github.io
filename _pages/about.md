@@ -49,6 +49,10 @@ __X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robus
 
 K. Wei, C. Deng, __X. Yang__, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, In AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
 
+__X. Yang__, C. Deng, Z. Dang, K. Wei, and J. Yan, SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, In IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021.
+
+Z. Dang, C. Deng, __X. Yang__, K. Wei, and H. Huang, Nearest Neighbor Matching for Deep Clustering, In IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021.
+
 H. Zhao, __X. Yang__, Z. Wang, E. Yang, and C. Deng, Graph Debiased Contrastive Learning with Joint Representation Clustering, In 30th International Joint Conference on Artificial Intelligence (__IJCAI__), 2021.
 
 
