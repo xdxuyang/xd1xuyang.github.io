@@ -13,6 +13,7 @@ I am currently a fourth year PhD（Ph.D Graduate Program） Candidate supervised
 
 News
 ======
+* I was elected as the Executive Area Chair (EAC) of the sixth VALSE
 * Apr. 29, 2021, one paper was accepted to IJCAI2021 (13.9% acceptance rate)
 * Mar. 1, 2021, two papers were accepted to CVPR2021 (~27% acceptance rate)
 * Dec. 02, 2020, one paper was accepted to AAAI2021 (~21% acceptance rate)
