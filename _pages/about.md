@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
+I am currently a fourth year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
 
 
 News
 ======
+* Apr. 29, 2021, one paper was accepted to IJCAI2021 (13.9% acceptance rate)
 * Mar. 1, 2021, two papers were accepted to CVPR2021 (~27% acceptance rate)
-* I will serve as a Senior PC for IJCAI 2021
 * Dec. 02, 2020, one paper was accepted to AAAI2021 (~21% acceptance rate)
 * Sep. 26, 2020, one paper was accepted to NeurIPS2020 (~20% acceptance rate)
 * Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence (IF19=17.861)
@@ -48,6 +48,9 @@ K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International 
 __X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
 
 K. Wei, C. Deng, __X. Yang__, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, In AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
+
+H. Zhao, __X. Yang__, Z. Wang, E. Yang, and C. Deng, Graph Debiased Contrastive Learning with Joint Representation Clustering, In 30th International Joint Conference on Artificial Intelligence (__IJCAI__), 2021.
+
 
 Friends
 ======
