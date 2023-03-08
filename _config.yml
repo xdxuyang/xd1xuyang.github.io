@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xu Yang"
+title                    : "Moqi Li"
 title_separator          : "-"
-name                     : &name "Xu Yang"
+name                     : &name "Moqi Li"
 description              : &description "personal description"
 url                      : https://xdxuyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xdxuyang/xdxuyang.github.io"
+repository               : "xd1xuyang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xu Yang (杨旭)"
-  avatar           : "YangXu.jpg"
+  name             : "Moqi Li"
+  avatar           : 
   bio              : "PhD candidate of The Department of Electronic Engineering at Xidian University"
   location         : "Xidian University"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Uc3piAIAAAAJ&view_op=list_works&authuser=1"
-  email            : "xuyang.xd@gmail.com"
+  googlescholar    : 
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xdxuyang"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
