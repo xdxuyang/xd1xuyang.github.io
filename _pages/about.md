@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xu Yang 杨旭"
+title: "Moqi Li"
 excerpt: "About me)"
 author_profile: true
 redirect_from: 
@@ -8,58 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my B.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2016.
+I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised by Prof. [Cheng Deng](http://see.xidian.edu.cn/faculty/chdeng/) at [Xidian University](http://www.xidian.edu.cn/). Before that I obtained my M.S. degree from [Xidian University](http://www.xidian.edu.cn/) in 2019.
 
 
 News
 ======
-* I was elected as the Executive Area Chair (EAC) of the sixth VALSE
-* Apr. 29, 2021, one paper was accepted to IJCAI2021 (13.9% acceptance rate)
-* Mar. 1, 2021, two papers were accepted to CVPR2021 (~27% acceptance rate)
-* Dec. 02, 2020, one paper was accepted to AAAI2021 (~21% acceptance rate)
-* Sep. 26, 2020, one paper was accepted to NeurIPS2020 (~20% acceptance rate)
-* Sep. 17, 2020, one paper was accepted to IEEE Trans. Pattern Analysis and Machine Intelligence (IF19=17.861)
-* Apr. 20, 2020, one paper was accepted to IJCAI2020 (~12.6% acceptance rate)
-* Feb. 24, 2020, one paper was accepted to CVPR2020 (~22% acceptance rate)
-* Jul. 28, 2019, one paper was accepted to IEEE Trans. Multimedia (IF19=6.051)
-* Feb. 25, 2019, one paper was accepted to CVPR2019 (~25.2% acceptance rate)
-* Nov. 8, 2017, one paper was accepted to AAA2018 (~25% acceptance rate)
+
 
 
 
 Recent Publications
 ======
 
-Journal
-------
-__X. Yang__, C. Deng, T. Liu, and D. Tao, Heterogeneous Graph Attention Network for Unsupervised Multiple-Target Domain Adaptation, IEEE Trans. Pattern Anal. Mach. Intell., 2020. (IF19=17.861)
 
-C. Deng, __X. Yang__, F. Nie, and D. Tao, Saliency Detection via a Multiple Self-Weighted Graph-Based Manifold Ranking, In IEEE Trans. Multimed., 2019. (IF19=6.051)
-
-Conference
-------
-__X. Yang__, C. Deng, X. Liu, and F. Nie, New L21-Norm Relaxation of Multi-Way Graph Cut for Clustering, In AAAI Conference on Artificial Intelligence (__AAAI__), 2018.
-
-__X. Yang__, C. Deng, F. Zheng, J. Yan, and W. Liu, Deep Spectral Clustering Using Dual Autoencoder Network, In IEEE International Conference on Pattern Recognition and Computer Vision (__CVPR__), 2019.
-
-Z. Dang, C. Deng, __X. Yang__, H. Huang, Multi-Scale Fusion Subspace Clustering Using Similarity Constraint, In IEEE International Conference on Pattern Recognition and Computer Vision (__CVPR__), 2020.
-
-K. Wei, C. Deng, and __X. Yang__, Lifelong Zero-shot Learning, In International Joint Conference on Artificial Intelligence (__IJCAI__), 2020.
-
-__X. Yang__, C. Deng, K. Wei, J. Yan, and W. Liu, Adversarial Learning for Robust Deep Clustering, In Thirty-fourth Conference on Neural Information Processing Systems (__NeurIPS__), 2020.
-
-K. Wei, C. Deng, __X. Yang__, and M. Li, Incremental Embedding Learning via Zero-Shot Translation, In AAAI Conference on Artificial Intelligence (__AAAI__), 2021.
-
-__X. Yang__, C. Deng, Z. Dang, K. Wei, and J. Yan, SelfSAGCN: Self-Supervised Semantic Alignment for Graph Convolution Network, In IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021.
-
-Z. Dang, C. Deng, __X. Yang__, K. Wei, and H. Huang, Nearest Neighbor Matching for Deep Clustering, In IEEE/CVF Conference on Computer Vision and Pattern Recognition (__CVPR__), 2021.
-
-H. Zhao, __X. Yang__, Z. Wang, E. Yang, and C. Deng, Graph Debiased Contrastive Learning with Joint Representation Clustering, In 30th International Joint Conference on Artificial Intelligence (__IJCAI__), 2021.
 
 
 Friends
 ======
-[Erkun Yang](https://yangerkun.github.io/)(Xidian Unversity)  
-[Hao Wang](https://haowang1992.github.io/)(Xidian Unversity)   
-[Zhiyuan Dang](https://zhiyuandang.github.io/)(Xidian Unversity)  
-[Jiexi Yan](https://JiexiYan.github.io)(Xidian Unversity)  
